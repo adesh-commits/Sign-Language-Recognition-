@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [TensorFlow Models](https://github.com/tensorflow/models)
 
 ## Contributors
-- [Your Name]
+- ADESH
 
 Feel free to contribute to this project by submitting pull requests, reporting issues, or providing feedback.
 
